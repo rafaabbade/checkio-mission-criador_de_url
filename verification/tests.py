@@ -10,7 +10,7 @@ Each test is a dict with
 
 TESTS = {
     "Basics": [
-        [
+        
     {
         "input": ["Meu Artigo Legal"],
         "answer": "meu-artigo-legal"
@@ -19,6 +19,6 @@ TESTS = {
         "input": ["Blog Sobre Python"],
         "answer": "blog-sobre-python"
     }
-]
+
     ]
 }
