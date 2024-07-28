@@ -1,1 +1,12 @@
-{{CODIGO INICIAL}}
+def criador_de_url(titulo_artigo):
+    # Seu código aqui
+    return None
+
+print("Example:")
+print(criador_de_url("Meu Artigo Legal"))
+
+# As funções assert são utilizadas para verificar se o resultado da função chamada é o esperado
+assert criador_de_url("Meu Artigo Legal") == "meu-artigo-legal"
+assert criador_de_url("Blog Sobre Python") == "blog-sobre-python"
+
+print("Seu código passou pelos testes, clique em Check para avançar!")
